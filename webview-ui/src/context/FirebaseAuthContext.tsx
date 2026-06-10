@@ -5,7 +5,7 @@ import { vscode } from "../utils/vscode"
 
 // Firebase configuration from extension
 const firebaseConfig = {
-	apiKey: "AIzaSyDcXAaanNgR2_T0dq2oOl5XyKPksYHppVo",
+	apiKey: "REDACTED_ROTATED_2026_06_10",
 	authDomain: "cline-bot.firebaseapp.com",
 	projectId: "cline-bot",
 	storageBucket: "cline-bot.firebasestorage.app",
